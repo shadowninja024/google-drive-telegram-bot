@@ -21,7 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shadowninja024/google-drive-telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shadowninja024/shadow-tg-drive_bot)
 
 ### How To Deploy Video Tutorial:
 
